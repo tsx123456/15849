@@ -1,0 +1,48 @@
+
+jzy.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jzy_0
+  rotate: false
+  xy: 0, 0
+  size: 147, 188
+  orig: 149, 190
+  offset: 1, 1
+  index: -1
+jzy_1
+  rotate: false
+  xy: 149, 0
+  size: 147, 188
+  orig: 149, 190
+  offset: 1, 1
+  index: -1
+jzy_2
+  rotate: false
+  xy: 298, 41
+  size: 147, 147
+  orig: 149, 149
+  offset: 1, 1
+  index: -1
+jzy_3
+  rotate: false
+  xy: 447, 62
+  size: 147, 147
+  orig: 149, 149
+  offset: 1, 1
+  index: -1
+jzy_4
+  rotate: false
+  xy: 0, 190
+  size: 438, 19
+  orig: 438, 19
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 596, 127
+  size: 100, 82
+  orig: 102, 84
+  offset: 1, 1
+  index: -1
